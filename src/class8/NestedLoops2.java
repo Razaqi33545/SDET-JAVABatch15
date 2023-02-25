@@ -6,7 +6,6 @@ public class NestedLoops2 {
 
         for (int i = 0; i < 5; i++) {
 
-
             for (int j = 0; j < 5; j++) {  // inner for loop
                 System.out.println(j);
             }

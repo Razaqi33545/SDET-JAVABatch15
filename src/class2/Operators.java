@@ -2,19 +2,21 @@ package class2;
 
 public class Operators {
     public static void main(String[] args) {
-        String number1="10";
-        String number2="20";
-        /*
-        System.out.println(number1*number2);
-        10*2=20
-        Sam*Car=
-        */
-        int a =25;
-        int b =40;
-        System.out.println(a*b);
-        System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println(a/b);
-        System.out.println(b%a);
+
+        int number1=10;
+        int number2=20;
+
+        System.out.println(number1+number2);
+
+        int x = 3;
+        int y = 2;
+
+        System.out.println(x+y);
+        System.out.println(x-y);
+        System.out.println(x*y);
+        System.out.println(x/y);
+        System.out.println(x%y);
+
+
     }
 }

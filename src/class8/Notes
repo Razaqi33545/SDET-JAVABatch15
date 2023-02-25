@@ -10,4 +10,4 @@ break keyword:
     break keyword is used to stop a loop just like the condition that we use inside a loop.
 Continue:
     is used to skip all the code written inside the body of the loop.
-we should always use break and continue with if conditions
+we should always use break and continue with if conditions.

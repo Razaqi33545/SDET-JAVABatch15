@@ -4,9 +4,10 @@ public class TypeCasting_5 {
     public static void main(String[] args) {
         long number=125;
         byte shorterNumber=(byte) number;
+        System.out.println(shorterNumber);
+
         float f=10.5f;
         int num=(int)f;
-        System.out.println(shorterNumber);
         System.out.println(num);
         /*
         byte
@@ -30,6 +31,13 @@ around we get an error
         System.out.println(wholePart);
 
 
+        int a = 124;
+        byte d = (byte) a;
+        System.out.println(d);
+
+        float w = 2.5f;
+        byte t = (byte) w;
+        System.out.println(t);
 
     }
 }

@@ -8,7 +8,7 @@ public class IfElse_9 {
             System.out.println("Male");
         }
         String name="Nat";
-        // with non-primitive data typs such as String we can' use == symbol
+        // with non-primitive data types such as String we can't use == symbol
         if(name.equals("Sam")){
             System.out.println("Amazing student");
         }
